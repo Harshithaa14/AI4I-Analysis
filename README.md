@@ -8,7 +8,7 @@ The AI4I 2020 dataset provides data on industrial machinery, including:
 - **Features**:
   - Machine condition metrics
   - Sensor readings
-  - Failure type classifications
+  - Failure type classification
 - **Purpose**: The dataset is intended for predictive maintenance, enabling users to develop machine learning models for identifying potential equipment failures.
 
 ## Tools and Technologies
